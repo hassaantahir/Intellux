@@ -1324,7 +1324,7 @@ section .headline {
   font-weight: 400;
   color: #13bbbd;
   position: relative;
-  top: 2rem;
+  top: 2.4rem;
 }
 .navbar-brand:active {
   color: #13bbbd;
