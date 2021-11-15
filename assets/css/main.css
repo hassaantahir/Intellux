@@ -317,7 +317,7 @@ a:hover {
 .navigation-main ul li a:hover,
 .navigation-main ul li span:hover,
 .navigation-main ul li.current a {
-  color: #13bbbd;
+  color: #02a1a7;
 }
 
 /** MEDIA QUERIES  **/
@@ -602,7 +602,7 @@ section .headline {
   transform: scale(1);
 
   border-radius: 100%;
-  background: #13bbbd;
+  background: #02a1a7;
 }
 
 #intro .container-mid a:hover:before {
@@ -800,7 +800,7 @@ section .headline {
   vertical-align: middle;
 
   border-radius: 100%;
-  background: #13bbbd;
+  background: #02a1a7;
 }
 
 #service .service-item h5 {
@@ -875,7 +875,7 @@ section .headline {
 
   opacity: 0;
   border-radius: 100%;
-  background: #13bbbd;
+  background: #02a1a7;
 }
 
 #work .work-carousel .owl-dots .owl-dot.active:after,
@@ -984,7 +984,7 @@ section .headline {
   opacity: 0;
   color: #fff;
   border-radius: 100%;
-  background: #13bbbd;
+  background: #02a1a7;
 }
 
 #work .work-carousel .item:hover .info .container-mid i {
@@ -1106,7 +1106,7 @@ section .headline {
 
 #contact .title span {
   border-radius: 3.5rem;
-  background: #13bbbd;
+  background: #02a1a7;
   text-align: center;
   padding: 1rem 3rem;
   color: #ffffff;
@@ -1142,7 +1142,7 @@ section .headline {
   padding: 0 3.5rem;
 
   border-radius: 3.5rem;
-  background: #13bbbd;
+  background: #02a1a7;
 
   width: 20rem;
   text-align: center;
@@ -1259,7 +1259,7 @@ section .headline {
   transform: scale(1);
 
   border-radius: 100%;
-  background: #13bbbd;
+  background: #02a1a7;
 }
 
 #footer .social-icons li:hover:before {
@@ -1322,15 +1322,15 @@ section .headline {
   height: auto !important;
   font-size: 2.5rem;
   font-weight: 400;
-  color: #13bbbd;
+  color: #02a1a7;
   position: relative;
   top: 2.4rem;
 }
 .navbar-brand:active {
-  color: #13bbbd;
+  color: #02a1a7;
 }
 .navbar-brand:focus {
-  color: #13bbbd;
+  color: #02a1a7;
 }
 
 .m-b-6 {
